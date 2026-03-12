@@ -1,0 +1,15 @@
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\bin\Debug\net8.0\rotyconsole.exe
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\bin\Debug\net8.0\rotyconsole.deps.json
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\bin\Debug\net8.0\rotyconsole.runtimeconfig.json
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\bin\Debug\net8.0\rotyconsole.dll
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\bin\Debug\net8.0\rotyconsole.pdb
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\obj\Debug\net8.0\rotyconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\obj\Debug\net8.0\rotyconsole.AssemblyInfoInputs.cache
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\obj\Debug\net8.0\rotyconsole.AssemblyInfo.cs
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\obj\Debug\net8.0\rotyconsole.csproj.CoreCompileInputs.cache
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\obj\Debug\net8.0\rotyconsole.sourcelink.json
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\obj\Debug\net8.0\rotyconsole.dll
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\obj\Debug\net8.0\refint\rotyconsole.dll
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\obj\Debug\net8.0\rotyconsole.pdb
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\obj\Debug\net8.0\rotyconsole.genruntimeconfig.cache
+D:\rkb\rosszaxamppapollakban.sql\rotyconsole\obj\Debug\net8.0\ref\rotyconsole.dll

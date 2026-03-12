@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\rkb\\rosszaxamppapollakban.sql\\roty\\roty.csproj": {}
+    "D:\\rkb\\rosszaxamppapollakban.sql\\rotyconsole\\rotyconsole.csproj": {}
   },
   "projects": {
-    "D:\\rkb\\rosszaxamppapollakban.sql\\roty\\roty.csproj": {
+    "D:\\rkb\\rosszaxamppapollakban.sql\\rotyconsole\\rotyconsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\rkb\\rosszaxamppapollakban.sql\\roty\\roty.csproj",
-        "projectName": "roty",
-        "projectPath": "D:\\rkb\\rosszaxamppapollakban.sql\\roty\\roty.csproj",
+        "projectUniqueName": "D:\\rkb\\rosszaxamppapollakban.sql\\rotyconsole\\rotyconsole.csproj",
+        "projectName": "rotyconsole",
+        "projectPath": "D:\\rkb\\rosszaxamppapollakban.sql\\rotyconsole\\rotyconsole.csproj",
         "packagesPath": "C:\\Users\\Tanulo\\.nuget\\packages\\",
-        "outputPath": "D:\\rkb\\rosszaxamppapollakban.sql\\roty\\obj\\",
+        "outputPath": "D:\\rkb\\rosszaxamppapollakban.sql\\rotyconsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -46,14 +46,8 @@
         }
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
-          "dependencies": {
-            "MySql.Data": {
-              "target": "Package",
-              "version": "[9.6.0, )"
-            }
-          },
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -68,9 +62,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\rkb\\roty\\",
+  "WorkspaceRootPath": "D:\\rkb\\rosszaxamppapollakban.sql\\roty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C079A5DB-684D-40B2-9414-B7FE39603123}|roty.csproj|d:\\rkb\\roty\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C079A5DB-684D-40B2-9414-B7FE39603123}|roty.csproj|d:\\rkb\\rosszaxamppapollakban.sql\\roty\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C079A5DB-684D-40B2-9414-B7FE39603123}|roty.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\rkb\\roty\\Form1.cs",
+              "DocumentMoniker": "D:\\rkb\\rosszaxamppapollakban.sql\\roty\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\rkb\\roty\\Form1.cs [Design]",
+              "ToolTip": "D:\\rkb\\rosszaxamppapollakban.sql\\roty\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T10:02:54.049Z",

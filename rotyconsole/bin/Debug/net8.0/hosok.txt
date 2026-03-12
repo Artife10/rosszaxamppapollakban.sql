@@ -1,0 +1,10 @@
+Iron Man;Technológia;85;Bosszúállók;120
+Thor;Villám;95;Bosszúállók;200
+Hulk;Erő;98;Bosszúállók;150
+Wolverine;Mutáns;88;X-Men;180
+Storm;Mutáns;82;X-Men;160
+Deadpool;Mutáns;75;X-Force;140
+Batman;Technológia;90;Justice League;170
+Superman;Erő;205;Justice League;210
+Omni-Man;Viltrumite erő;210;Viltrum Birodalom;1190
+Legyőzhetetlen;Viltrumite erő;215;Guardians of the Globe;50
