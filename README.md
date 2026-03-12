@@ -1,4 +1,1 @@
-# rosszaxamppapollakban.sql
-Nem megy a Xamp
-
-De egyre több gépen
+Nagyon kemény lett ez tanárúr
