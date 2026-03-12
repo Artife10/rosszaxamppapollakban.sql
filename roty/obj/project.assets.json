@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\rkb\\roty\\roty.csproj",
+      "projectUniqueName": "D:\\rkb\\rosszaxamppapollakban.sql\\roty\\roty.csproj",
       "projectName": "roty",
-      "projectPath": "D:\\rkb\\roty\\roty.csproj",
+      "projectPath": "D:\\rkb\\rosszaxamppapollakban.sql\\roty\\roty.csproj",
       "packagesPath": "C:\\Users\\Tanulo\\.nuget\\packages\\",
-      "outputPath": "D:\\rkb\\roty\\obj\\",
+      "outputPath": "D:\\rkb\\rosszaxamppapollakban.sql\\roty\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
